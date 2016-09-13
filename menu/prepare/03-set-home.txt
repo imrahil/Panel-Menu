@@ -1,0 +1,5 @@
+label-en  Set Home
+
+action run-command G92 X0 Y0 Z0
+
+

@@ -2,5 +2,9 @@ label-en   Probe
 label-fr   Palper
 label-es   Probar
 
-action goto-menu /sd/panel/menu/probe/
+# Only if currently not playing and not halted
+only-if-playing-is   0
+only-if-halted-is    0
+
+action display-probe-screen
 

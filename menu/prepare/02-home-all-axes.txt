@@ -1,0 +1,5 @@
+label-en  Home all axes
+
+action run-command G28
+
+

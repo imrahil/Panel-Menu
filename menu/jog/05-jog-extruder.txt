@@ -1,0 +1,7 @@
+label-en  Extruder
+
+only-if-extruder 1
+
+action goto-menu /sd/panel/menu/jog/jog-extruder/ 
+
+

@@ -1,0 +1,5 @@
+label-en  Z
+
+action goto-menu /sd/panel/menu/jog/jog-z/ 
+
+
